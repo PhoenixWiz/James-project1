@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @James-1520
+- 👋 Hi, I’m @James
 - 👀 I’m interested in developing websites
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
